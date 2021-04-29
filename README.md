@@ -1,4 +1,4 @@
-1. Introduction
+Introduction
 Asymptotic notations are used to analyze an algorithm’s running time by identifying its behavior as the input size for the algorithm increases. There are six symbols used to characterize the relative growth rates of functions:
 
 Symbol	Summary
